@@ -1,0 +1,107 @@
+*{
+	font-family: Open Sans;
+	font-weight: normal;
+	max-width: 100% !important;
+}
+
+/*html,body{
+	height: 100%;
+	width: 100%;
+}
+
+/*-- bagian pertama --*/
+.object{
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 10px;
+	margin: 0;
+	display: table;
+	color: #eee;
+}
+
+.object2{
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 20px;
+	margin: 0;
+	display: table;
+	color: #222;
+}
+
+.hitam{
+	color: #222;
+	font-size: 24px;
+}
+
+.pertama{
+	background-image: url('assets/gambar/cover/banner.jpg');
+}
+
+.small{
+	color: black;
+	background-image: url('assets/gambar/cover/banner2.jpg');
+	background-size: cover;
+	background-position: bottom;
+	padding-bottom: 70px;
+}
+
+.jumbotron2{
+	background-image: url('assets/gambar/cover/banner2.jpg');
+	background-size: cover;
+}
+
+.thumbnail{
+	background:rgba(0,0,0,0);
+	border-color: rgba(0,0,0,0);
+}
+
+.kedua{
+	background-image: url('assets/gambar/cover/banner3.jpg');
+}
+
+.ketiga{
+	background-image: url('assets/gambar/cover/banner41.jpg');
+	background-size: cover;
+	background-position: bottom;
+	padding-bottom: 70px;
+}
+
+h1{
+	margin: 0;
+	font-family: sans-serif;
+	font-size: 50px;
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.top{
+	margin-top: 140px;
+	margin-bottom: 90px;
+}
+
+.img-responsive{
+	width: 150px;
+	height: 200px;
+}
+
+.btn-primary{
+	background:rgba(0,0,0,0);
+	border-color: #fff;
+}
+
+.tengah{
+	padding-top: 37px;
+}
+
+.tengah2{
+	padding-top: 27px;
+}
+
+.tengah3{
+	padding-top: 20px;
+}
